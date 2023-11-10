@@ -1,0 +1,117 @@
+header {
+    text-shadow: 2px 2px 1px red;
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    background-color: yellow;
+    min-height: fit-content;
+    border-radius: 8px;
+}
+header:hover {
+    background-color: black;
+    color: white;
+    box-shadow: inset 2px 2px 3px red;
+}
+table {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+    border-collapse: collapse;
+    width: 90%;
+    margin: 50px 60px 30px 60px;
+    text-align: center;
+    border-style: ridge;
+    border-color: yellow;
+    filter: drop-shadow(10px 8px 8px blue);
+}
+img {
+    width: 90%;
+    max-width: 100%;
+    height: 200px; 
+}
+th {
+    color: blue;
+    font-size: xx-large;
+    font-weight: bolder;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: black;
+    position: fixed;
+    position: sticky;
+    top: 0;    
+}
+a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+    font-size: 30px;
+    color: yellow;
+}
+#flash {
+    background-color: red;
+}
+#picflash {
+    background-color: beige;
+}
+#spiderman {
+    background-color: aqua;
+}
+#picspiderman {
+    width: 25%;
+    background-color: gold;
+}
+#superman {
+    background-color: blueviolet;
+}
+#picsuperman {
+    background-color: indigo;
+}
+#thor {
+    background-color: orange;
+}
+#picthor {
+    width: 15%;
+    background-color: #6699cc;
+}
+#aquaman {
+    background-color: blue;
+}
+#picaquaman {
+    background-color: lightslategray;
+}
+#ironman {
+    background-color: black;
+}
+#picironman {
+    width: 20%;
+    background-color: yellow;
+}
+#wonderwoman {
+    background-color: pink;
+}
+#picwonderwoman {
+    background-color: #ff0033;
+}
+#hulk {
+    background-color: green;
+}
+#pichulk {
+    width: 20%;
+    background-color: mediumaquamarine
+}
+footer {
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    background-color: yellow;
+    border-radius: 8px;
+    width: 100%;
+}
+footer:hover {
+    background-color: black;
+    color: white;
+    box-shadow: inset 3px 3px 5px red;
+}
